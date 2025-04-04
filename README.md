@@ -11,3 +11,17 @@ MessageBox figyelmeztetés negatív egyenleg esetén
 Timer automatikus mentéshez vagy szinkronizáláshoz
 SaveFileDialog, OpenFileDialog mentéshez/betöltéshez
 
+Funkciók
+✔ Bevétel / kiadás rögzítése (összeg, kategória, dátum, megjegyzés)
+
+📝 Módosítás / törlés
+
+🔍 Szűrés időszak vagy kategória szerint
+
+📊 Havi egyenleg és statisztika
+
+💾 Mentés / betöltés
+
+⏰ Emlékeztető kiadásokra (Timer)
+
+🎨 Szín- és betűstílus testreszabás (ColorDialog, FontDialog)
