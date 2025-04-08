@@ -25,3 +25,5 @@ Funkciók
 ⏰ Emlékeztető kiadásokra (Timer)
 
 🎨 Szín- és betűstílus testreszabás (ColorDialog, FontDialog)
+
+teszt
